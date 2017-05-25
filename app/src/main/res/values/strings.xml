@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TanTanAutoClick</string>
+    <string name="accessibility_description">自动点击配对键</string>
+
+</resources>
