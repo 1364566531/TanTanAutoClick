@@ -27,7 +27,6 @@ public class AutoClickService extends AccessibilityService {
                 break;
             case AccessibilityEvent.TYPE_VIEW_TEXT_CHANGED:
                 Log.d("AutoClickService", "界面文字改动");
-
                 break;
         }
     }
